@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryforglobalparameters",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "856596d3-fbe5-44ff-aa93-93380382020c",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
